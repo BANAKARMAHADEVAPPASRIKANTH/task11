@@ -1,0 +1,7 @@
+public class LMS1 {
+    public static void main(String[] args) {
+
+        System.out.println("hellowporld");
+    }
+
+}
